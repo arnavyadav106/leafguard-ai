@@ -1,0 +1,17 @@
+# Virtual environments and Python cache
+.venv/
+.venv311/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Dataset files
+Data/
+data/
+archive.zip
+
+# Installers accidentally saved in the project folder
+*.exe
+*.msi
+.idea/
+*.msix
